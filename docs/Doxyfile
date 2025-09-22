@@ -1,0 +1,7 @@
+PROJECT_NAME           = "MDSC"
+PROJECT_NUMBER         = "0.1.0"
+OUTPUT_DIRECTORY       = docs/build
+INPUT                  = include src README.md
+RECURSIVE              = NO
+GENERATE_LATEX         = YES
+QUIET                  = YES

@@ -1,0 +1,17 @@
+# Example input (Berendsen thermostat)
+n 256
+rho 0.7
+steps 2000
+dt 0.004
+rc 2.5
+
+thermo berendsen
+T0 1.0
+tau 2.0
+
+xyz traj.xyz
+log run.log
+thermo_out thermo.dat
+thermo_every 50
+
+cuda 0

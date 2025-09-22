@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MDSC — Molecular Dynamics Simulator with CUDA"
+authors:
+  - family-names: "Charan"
+    given-names: "Harish"
+    email: "charan.harish@gmail.com"
+version: "0.1.0"
+license: "MIT"
+repository-code: "https://github.com/Hareesh098/MDSC"
+keywords: [molecular-dynamics, cuda, c, research-software, simulation]

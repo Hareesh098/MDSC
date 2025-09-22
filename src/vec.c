@@ -1,0 +1,1 @@
+// Inlined in header (mdsc/vec.h)
