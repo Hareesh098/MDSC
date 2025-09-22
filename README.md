@@ -83,10 +83,8 @@ cuda 0
 ## Publish to GitHub
 ```bash
 git init
-git config user.name "Harish Charan"
-git config user.email "charan.harish@gmail.com"
-git remote add origin https://github.com/Hareesh098/MDSC.git
 git add .
+git remote add origin https://github.com/Hareesh098/MDSC.git
 git commit -m "MDSC: flat src layout, CPU+CUDA, file-driven inputs"
 git branch -M main
 git push -u origin main
